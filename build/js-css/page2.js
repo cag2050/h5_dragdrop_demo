@@ -1,0 +1,1 @@
+!function(o){function e(t){if(r[t])return r[t].exports;var n=r[t]={exports:{},id:t,loaded:!1};return o[t].call(n.exports,n,n.exports,e),n.loaded=!0,n.exports}var r={};return e.m=o,e.c=r,e.p="",e(0)}({0:function(o,e,r){"use strict";console.log("js2文件"),document.write("js2文件"),r(5);var t="测试es6";console.log(t)},5:function(o,e){}});
